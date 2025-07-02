@@ -1,4 +1,4 @@
-# Doctor Assist using crewAI
+# MedicalCrew
 This project leverages advanced AI agents to assist doctors in diagnosing medical conditions and recommending treatment plans based on patient-reported symptoms and medical history. The solution uses Streamlit for the user interface and crewAI library to define and manage AI agents and tasks.
 
 ## Features
