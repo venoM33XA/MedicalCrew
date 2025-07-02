@@ -11,14 +11,14 @@ This project leverages advanced AI agents to assist doctors in diagnosing medica
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shaadclt/Doctor-Assist-crewAI.git
-cd Doctor-Assist-crewAI
+git clone https://github.com/venoM33XA/MedicalCrew
+cd MedicalCrew
 ```
 2. Create a virtual environment and activate it:
 
 ```bash
 python -m venv venv
-source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate   
 ```
 
 3. Install the dependencies:
@@ -40,7 +40,7 @@ GROQ_API_KEY=your_groq_api_key
 1. Run the Streamlit app:
 
 ```bash
-streamlit run app_openi.py or streamlit run app_groq.py
+streamlit run app.py
 ```
 
 2. Use the application:
