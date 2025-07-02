@@ -58,13 +58,3 @@ streamlit run app_openi.py or streamlit run app_groq.py
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## Acknowledgements
-- OpenAI for the powerful language models.
-- Streamlit for the easy-to-use UI framework.
-- CrewAI for the agent and task management tools.
-
-## Contact
-For any questions or suggestions, please contact Mohamed Shaad at shaadclt@gmail.com.
